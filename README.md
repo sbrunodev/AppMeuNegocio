@@ -1,4 +1,4 @@
-Meu Negocio
+# Meu Negocio
 
   Um aplicativo para realizar o gerenciamento de pequenas empresa, 
 desenvolvido em React Native e utilizando o banco interno Realm.
